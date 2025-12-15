@@ -14,7 +14,7 @@ of GenAI systems in complex organizational environments.
 ✨ Enterprise Architecture & System Integration  
 ✨ Data Engineering & Data Platforms (ADF, Databricks, Spark)  
 ✨ SQL & Enterprise Databases (SQL Server, Oracle, Teradata)  
-✨ BI & ETL Foundations (SSIS, DataStage, Tableau, BO)  
+✨ BI & ETL Foundations (SSIS, DataStage, Talend, Informatica, Tableau, BO)  
 ✨ Automation Solutions (Power Platform, Bots)  
 ✨ Hands-on development using Python and cloud services  
 
