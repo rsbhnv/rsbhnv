@@ -25,14 +25,22 @@ of GenAI systems in complex organizational environments.
 ### 🔹 Enterprise Document Intelligence Platform  
 End-to-end document processing & automation platform  
 Technologies: Azure Data Factory, Databricks, Python, Azure AI services  
+👉 https://github.com/rsbhnv/enterprise-document-intelligence-platform
+
+---
+
+### 🔹 GenAI Career Agent (Copilot Studio & AI Foundry)  
+Enterprise GenAI agent combining structured job matching and free-text AI conversations  
+Technologies: Copilot Studio, Dataverse, Power Platform, Azure AI Foundry  
+👉 https://github.com/rsbhnv/enterprise-genai-career-agent
+
+---
 
 ### 🔹 Enterprise Voice Bot Architecture  
-Architecture & client-side technical leadership for an enterprise voice bot,  
-including POC development and vendor collaboration
+Architecture and technical leadership for an enterprise voice bot,  
+including POC development and vendor collaboration  
+👉 https://github.com/rsbhnv/enterprise-voice-bot-architecture
 
-### 🔹 GenAI Agents for Internal Systems  
-Architecture patterns and integrations for enterprise AI agents  
-(Copilot Studio, AI Foundry)
 
 ---
 
