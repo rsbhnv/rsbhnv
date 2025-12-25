@@ -1,24 +1,25 @@
 # 👋 Hi, I’m Rachel Sharaby
 
-GenAI & Data Architect with strong hands-on experience in designing and implementing
+GenAI & Data Engineer with strong hands-on experience in designing and implementing
 enterprise-grade AI systems, data platforms, and automation solutions.
 
-I focus on **architecture**, **technology selection**, and **practical delivery**
-of GenAI systems in complex organizational environments.
+I focus on **solution-level architecture**, **technology selection**, and
+**practical delivery** of GenAI systems in complex organizational environments.
 
 ---
 
 ## 🚀 Core Strengths
 
 ✨ Generative AI & Conversational AI (Azure OpenAI, Copilot Studio, AI Foundry)  
-✨ Enterprise Architecture & System Integration  
 ✨ Data Engineering & Data Platforms (ADF, Databricks, Spark)  
+✨ Enterprise Architecture & System Integration  
 ✨ SQL & Enterprise Databases (SQL Server, Oracle, Teradata)  
 ✨ BI & ETL Foundations (SSIS, DataStage, Talend, Informatica, Tableau, BO)  
 ✨ Automation Solutions (Power Platform, Bots)  
 ✨ Hands-on development using Python and cloud services  
 
 ---
+
 
 ## 📂 Portfolio Highlights
 
@@ -58,11 +59,19 @@ This background enables me to design AI systems that are:
 
 ## 💡 What I’m Growing Into
 
-- CI/CD pipelines for data & AI platforms (pre-production hands-on)  
+- CI/CD pipelines for data & AI platforms (hands-on, pre-production experience)  
 - Security & governance patterns for enterprise AI  
-- External client integration layers  
+- External client-facing integration layers  
+
 
 ---
+## 🧭 How to Navigate This GitHub
+
+- Start with **Enterprise Document Intelligence Platform** for a full data + AI pipeline
+- Explore **GenAI Career Agent** for conversational AI and Copilot Studio patterns
+- Review **Enterprise Voice Bot Architecture** for system-level design and integration
+
+
 
 ## 📫 How to reach me
 
