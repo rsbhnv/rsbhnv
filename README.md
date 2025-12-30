@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Rachel Sharaby
 
-GenAI & Data Engineer with strong hands-on experience in designing and implementing
-enterprise-grade AI systems, data platforms, and automation solutions.
+GenAI & Data Engineer with strong hands-on experience in building and operating
+enterprise-grade AI systems, data platforms, and automated data pipelines.
 
-I focus on **solution-level architecture**, **technology selection**, and
-**practical delivery** of GenAI systems in complex organizational environments.
+I focus on hands-on development, solution design, and
+the practical implementation of GenAI systems
+within complex organizational environments.
 
 ---
 
